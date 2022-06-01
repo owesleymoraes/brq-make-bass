@@ -179,14 +179,15 @@ header .list-items {
 
 
 .carrossel {
-    margin-left: 200px;
+    margin-left: 15px;
+    margin-top: 65px;
     border-style: solid;
-    border-color: #122A57;
+    border-color: darkgoldenrod;
     border-radius: 30px;
-    min-width: 100vh;
+    min-width: 80vh;
     box-shadow: 2px 2px 4px black;
     overflow: hidden;
-    height: 400px;
+    height: 421px;
     width: 400px;
 }
 
