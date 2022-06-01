@@ -175,9 +175,6 @@ header .list-items {
     transition: .5s;
 }
 
-
-
-
 .carrossel {
     margin-left: 15px;
     margin-top: 65px;
@@ -207,6 +204,15 @@ header .list-items {
     max-height: 346px;
     max-width: -30px;
     margin-top: -33px;
+}
+
+.my-movie {
+    height: 500px;
+    width: 43%;
+    margin-top: 50px;
+    margin-left: 28%;
+    margin-right: 50%;
+    border: solid;
 }
 
 
